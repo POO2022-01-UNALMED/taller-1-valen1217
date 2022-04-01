@@ -5,3 +5,7 @@ Aprender mas sobre el mundo de la programacion
 =======
 ¿Por que ahora si puedo crear un commit y subir la carpeta?
 >>>>>>> 4e461d6d8a14a12914624d2889a62e4067e89d52
+
+¿Por que es importante tener cuidado con modificar dos archivos al mismo tiempo?
+
+- Por que esto le genera un conflicto al sistema el cual no va saber que instruccion usar y cual ignorar.
